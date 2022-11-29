@@ -49,10 +49,26 @@ List of all data sources
      - BAG / PDOK
      - 2021
      - Open data
+   * - **Province characteristics**
+     -
+     - 
+     - 
    * - Neighborhood demarcation
      - PDOK
      - 2021
      - Open data
+   * - Grid topology
+     - Enexis
+     - 2021
+     - Open data
+   * - Renewable generation sources
+     - RVO SDE++
+     - 2022
+     - Open data          
+   * - Heat sources
+     - `Startanalyse Expertise Centrum Warmte <https://www.warmteatlas.nl/viewer/app/Warmteatlas/v2?debug=false>`_
+     - 2021
+     - Open data     
    * - **Energy supply and demand**
      - 
      - 
