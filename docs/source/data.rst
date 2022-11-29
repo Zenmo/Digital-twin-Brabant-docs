@@ -13,7 +13,7 @@ List of all data sources
 
 
 
-.. list-table:: Data sources
+.. list-table:: **Data sources**
    :widths: 60 30 30 30
    :header-rows: 1
    
