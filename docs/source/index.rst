@@ -1,22 +1,21 @@
-Welcome to Lumache's documentation!
-===================================
+Introduction
+==============
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Documentation on the Brabant energy system digital twin tool.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+- Go to the `tool <https://zenmo.com/brabant-serious-game-energietransitie/>`_
+- Go to the `neighborhood model github <https://github.com/ZEnMo/Brabant-buurt-serious-game/>`_
+- Go to the `province model github <https://github.com/ZEnMo/Brabant-systeem-integratie-model/>`_
+- Read the `tutorial on read the docs <https://docs.readthedocs.io/en/stable/tutorial//>`_
 
-.. note::
 
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   user-manual
+   neighborhood-model
+   prvince-model
+   data
