@@ -1,7 +1,4 @@
-User Manual
-===========
+Key-peformance indicators
+==========================
 
-.. autosummary::
-   :toctree: generated
-
-   Neighborhood model
+Description of key-performance indicators
