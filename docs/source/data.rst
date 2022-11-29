@@ -7,7 +7,7 @@ Province model
 
 Data is used
 
-.. list-table:: Title
+.. list-table:: Data sources
    :widths: 40 30 30
    :header-rows: 1
 
