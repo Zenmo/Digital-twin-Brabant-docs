@@ -1,34 +1,19 @@
-Usage
-=====
+Neighborhood model
+==================
 
-.. _installation:
+.. _neighborhood-model-structure:
 
-Installation
+Model structure
 ------------
 
-To use Lumache, first install it using pip:
+Energy calculations work like this
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
+.. _energy-calculations:
 
-Creating recipes
-----------------
+Energy Calculations
+------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Energy calculations work like this
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
 
