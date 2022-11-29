@@ -8,7 +8,9 @@ Documentation on the Brabant energy system digital twin tool.
 - Go to the `province model github <https://github.com/ZEnMo/Brabant-systeem-integratie-model/>`_
 - Read the `tutorial on read the docs <https://docs.readthedocs.io/en/stable/tutorial//>`_
 
-
+.. image:: images/tool-home-page.png
+  :width: 600
+  :alt: Tool home page
 
 Contents
 --------
@@ -17,5 +19,6 @@ Contents
 
    user-manual
    neighborhood-model
-   prvince-model
+   province-model
+   KPIs
    data
