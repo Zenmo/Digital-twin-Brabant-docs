@@ -20,5 +20,5 @@ Contents
    user-manual
    neighborhood-model
    province-model
-   KPIs
+   key-performance-indicators
    data
