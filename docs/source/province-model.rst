@@ -1,10 +1,10 @@
 Province model
-==============
+==================
 
-.. province-model-structure:
+.. _Province-model-structure:
 
-Model structure
-------------
+Province model structure
+-------------------------
 
 Energy calculations work like this
 
@@ -12,7 +12,7 @@ Energy calculations work like this
 .. _energy-calculations:
 
 Energy Calculations
-------------
+-------------------
 
 Energy calculations work like this
 

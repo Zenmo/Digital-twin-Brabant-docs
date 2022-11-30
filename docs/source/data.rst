@@ -4,10 +4,11 @@ This page inidactes all data sources used. Primarly data from publicaly availabl
 
 The public data can be downloaded, directly from its sources, or the actual data used in the model from the github repositories.
 
-* `Get data <https://github.com/ZEnMo/Brabant-buurt-serious-game/tree/main/data/>`_ neighborhood model
-* `Get data <https://github.com/ZEnMo/Brabant-systeem-integratie-model/tree/main/Data/>`_ province model
+* `Get data neighborhood model <https://github.com/ZEnMo/Brabant-buurt-serious-game/tree/main/data/>`_ 
+* `Get data province model <https://github.com/ZEnMo/Brabant-systeem-integratie-model/tree/main/Data/>`_ 
 
 .. _List-of-model-data:
+
 List of all data sources
 -------------------------
 
@@ -115,9 +116,11 @@ Subtitute non-public data
 To substitute this data for public usage of the model the transformer capacity can be seen as a funtion from the connected households, averiging a capacity of 1.5kW per household. 
 
 .. _cost-assumptions:
+
 Cost assumptions
 -----------------------
 
 .. _technology-characteristics:
+
 Technology chacarteristics
 --------------------------
