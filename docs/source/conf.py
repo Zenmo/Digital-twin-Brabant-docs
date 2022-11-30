@@ -28,8 +28,15 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
 html_theme = 'sphinx_rtd_theme'
+
+# solution to increase page width from https://stackoverflow.com/questions/23211695/modifying-content-width-of-the-sphinx-theme-read-the-docs
+def setup(app):
+    app.add_css_file('my_theme.css')
+
+
+html_static_path = ['_static']
+
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
