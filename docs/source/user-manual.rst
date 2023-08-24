@@ -205,7 +205,6 @@ The user can click on the buttons to change between heating and electricity solu
 Results
 ~~~~~~~~
 
-.. _insulation-level:
-
-Insulation level 
-~~~~~~~~~~~~~~~~
+Results are presented when clicking the 'resultaat' button or when comparing multiple scenarios in the 'vergelijk resultaten van meerdere scenario's' button.
+The resultaat screen presents results on a neighborhood level and on a househood level. The househood results are simply neighborhood results divided by the number of households in the neighborhood.
+For more information on the exact values see :doc:`key-performance-indicators`.
